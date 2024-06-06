@@ -1,0 +1,127 @@
+[0305/145530:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0305/145530:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0305/154637:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/125756:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/125801:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/132909:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133351:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133356:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133401:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133406:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133411:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133625:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133630:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133635:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/133640:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/134208:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/134213:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140111:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140116:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140121:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140126:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140131:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140136:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140141:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140146:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140151:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140156:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140201:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140206:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140211:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140216:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140221:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140226:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140231:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140236:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140241:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140246:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140251:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140256:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140301:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140306:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140311:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140316:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140321:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140326:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140331:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140336:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140341:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140346:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140351:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140356:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140401:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140406:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140411:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140416:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140421:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140426:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140431:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140436:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140441:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140446:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140451:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140456:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140501:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140506:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140511:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140516:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140521:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140526:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140531:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140536:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140541:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140546:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140551:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140556:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140601:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140606:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140611:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140616:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140621:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140626:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140631:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140636:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140641:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140646:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140651:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140656:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140701:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140706:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140711:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140716:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140721:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/140724:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/142735:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/142735:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/142736:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150446:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150451:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150456:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150501:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150506:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150732:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150737:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150742:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150747:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0307/150752:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0311/125411:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0311/125411:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0311/155151:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0311/165917:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0311/171702:ERROR:browser_gpu_channel_host_factory.cc(119)] Failed to launch GPU process.
+[0311/182436:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0311/182436:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0312/161532:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start/ (0)
+[0312/161532:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start/ (0)
+[0312/163158:WARNING:dns_config_service_win.cc(665)] Failed to read DnsConfig.
+[0411/111432:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0411/111432:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
+[0411/113417:INFO:CONSOLE(0)] "The source list for Content Security Policy directive 'script-src' contains an invalid source: ''report-sample''. It will be ignored.", source: https://www.altium.com/ad-start (0)
+[0411/113417:INFO:CONSOLE(0)] "Unrecognized Content-Security-Policy directive 'worker-src'.
+", source: https://www.altium.com/ad-start (0)
